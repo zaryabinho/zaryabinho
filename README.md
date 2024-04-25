@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaryabinho
+- 👋 Hi, I’m Zaryab Sajid
 - 👀 I’m interested in Web Engineering
 - 🌱 I’m currently learning Front-end Developments
 - 💞️ I’m looking to collaborate on creating Front-end projects
